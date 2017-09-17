@@ -1,0 +1,18 @@
+{
+  "ColorCode": {
+    "broadcast_started": 3447003,
+    "broadcast_stopped": 13369344
+  },
+  "TitleMsg": {
+    "broadcast_started": "/ 방송알리미 /",
+    "broadcast_stopped": "/ 방송알리미 /"
+  },
+  "ContentMsg": {
+    "broadcast_started": "@everyone 방송보러가자아!\t\\\t%s",
+    "broadcast_stopped": "@here 방송이 종료되었습니다. 시청해주신 모든 여러분께 감사드립니다.\n\n방송국가기:\t%s"
+  },
+  "DescriptionMsg": {
+    "broadcast_started": "우리 ~~의 방송이 시작되었데요!\n얼른 보러갑시다~",
+    "broadcast_stopped": "나중에 다시 만나요~"
+  }
+}
